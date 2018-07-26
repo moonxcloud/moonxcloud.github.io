@@ -97,9 +97,9 @@ service-worker: true
 
 
 # Friends
-friends: [
+myLove: [
     {
-        title: "Apple",
+        title: "Rachel",
         href: "https://apple.com"
     }
 ]
